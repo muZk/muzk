@@ -12,10 +12,10 @@
 - ⚡ Fun fact **My GitHub username is based on _musk_ from _Axe musk_ (don't blame me, I was 15 years old when I came with this nick)**
 
 <p align="left">
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/rails/rails-original-wordmark.svg" alt="rails" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/rails/rails-original-wordmark.svg" alt="rails" width="40" height="40"/>
   <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/>
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/ruby/ruby-original-wordmark.svg" alt="ruby" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/ruby/ruby-original-wordmark.svg" alt="ruby" width="40" height="40"/>
 </p>
 <p align="center">
    <a href="https://dev.to/codewithnico" target="blank">
