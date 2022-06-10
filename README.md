@@ -1,28 +1,32 @@
-<h1 align="center">Hi 👋, I'm Nicolás</h1>
-<h3 align="center">A passionate software developer from Chile</h3>
+# Hi 👋, I'm Nicolás
 
-- 🔭 I’m currently working on [my blog](https://codewithnico.com)
+I'm a developer and entrepreneur interested in Healthtech, Marketing, and Privacy.
 
-- 📝 I regulary write articles on [https://codewithnico.com](https://codewithnico.com)
+## Now
 
-- 💬 Ask me about **react, ruby on rails and freelancing**
+Usually, when people ask, _"so, what are you up to at the moment?"_ my mind goes blank. So I've put this [now page](https://nownownow.com/about):
 
-- 📫 You can reach me at **ngomez@hey.com**
+- 💼 I'm working remotely as a Rails Programmer in _Health Carousel_, a company that provides temporary healthcare professionals to Hospitals and healthcare facilities.
 
-- ⚡ Fun fact **My GitHub username is based on _musk_ from _Axe musk_ (don't blame me, I was 15 years old when I came with this nick)**
+- 🦕 With Eli we founded Codeness, a software company that creates digital products for healthcare professionals. We made _Apposito_ (Firebase + React Native 😉), an application that helps nurses document wounds objectively and with images.
 
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/rails/rails-original-wordmark.svg" alt="rails" width="40" height="40"/>
-  <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/ruby/ruby-original-wordmark.svg" alt="ruby" width="40" height="40"/>
-</p>
-<p align="center">
-   <a href="https://dev.to/codewithnico" target="blank">
-   <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="codewithnico" height="30" width="30" />
-   </a>
-   <a href="https://twitter.com/codewithnico" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="codewithnico" height="30" width="30" /></a>
-   <a href="https://linkedin.com/in/codewithnico" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="codewithnico" height="30" width="30" /></a>
-   <a href="https://stackoverflow.com/users/2056593" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="2056593" height="30" width="30" /></a>
-   <a href="https://codesandbox.com/muzk" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codesandbox.svg" alt="muzk" height="30" width="30" /></a>
-</p>
+- 🤖 Launching "Elliot", a platform where you can invest in crypto mining without managing your own hardware. Powered by Ruby on Rails ♦️
+
+- ⚛️ Working in a React Hooks course (in Spanish) for [EscuelaFrontend](https://escuelafrontend.com/).
+
+- 🪶 Working on "Raven" (side project), a platform where you can create email courses in a breeze. Powered by Ruby on Rails ♦️
+
+- ✍️ I also write. I have a monthly newsletter about Healthtech, and I would like to revive my blogs 😢
+
+## Technologies I'm comfortable working with
+
+- Programming Languages: Ruby, JavaScript, Python.
+- Backend: Ruby on Rails, Node, Firebase
+- Frontend: React, HTML, CSS (vanilla, Bootstrap, Tailwind), Hotwire
+- Mobile: React Native, Expo
+- Cloud and Tools: Git, Heroku, Docker
+- Databases: MySQL, Postgres, MongoDB, Firestore
+
+## Contact
+
+📫 You can reach me at **ngomez@hey.com**
