@@ -8,7 +8,7 @@ Usually, when people ask, _"so, what are you up to at the moment?"_ my mind goes
 
 - 💼 I'm working remotely as a Rails Programmer in _Health Carousel_, a company that provides temporary healthcare professionals to Hospitals and healthcare facilities.
 
-- 🦕 With Eli we founded Codeness, a software company that creates digital products for healthcare professionals. We made _Apposito_ (Firebase + React Native 😉), an application that helps nurses document wounds objectively (with images).
+- 🦕 With [Eli](https://github.com/EliAndrea) we founded Codeness, a software company that creates digital products for healthcare professionals. We made _Apposito_ (Firebase + React Native 😉), an application that helps nurses document wounds objectively (with images).
 
 - 🤖 Launching "Elliot", a platform where you can invest in crypto mining without managing your own hardware. Powered by Ruby on Rails ♦️
 
