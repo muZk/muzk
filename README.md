@@ -6,7 +6,7 @@ I'm a developer and entrepreneur interested in Healthtech, Marketing, and Privac
 
 Usually, when people ask, _"so, what are you up to at the moment?"_ my mind goes blank. So I've put this [now page](https://nownownow.com/about):
 
-- 💼 I'm working remotely as a Rails Programmer in _Health Carousel_, a company that provides temporary healthcare professionals to Hospitals and healthcare facilities.
+- 💼 I'm working remotely as a Rails Programmer in _Health Carousel_. This company provides temporary healthcare professionals to Hospitals and healthcare facilities.
 
 - 🦕 With [Eli](https://github.com/EliAndrea) we founded [Codeness](https://github.com/codeness-io), a software company that creates digital products for healthcare professionals. We made _Apposito_ (Firebase + React Native 😉), an application that helps nurses document wounds objectively (with images).
 
