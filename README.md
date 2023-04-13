@@ -12,8 +12,6 @@ Usually, when people ask, _"so, what are you up to at the moment?"_ my mind goes
 
 - 🎓 Teaching Frontend development with ⚛️ React in [Pontificia Universidad Católica de Chile](https://www.uc.cl/).
 
-- ⚛️ Working in a React Hooks course (in Spanish) for [EscuelaFrontend](https://escuelafrontend.com/).
-
 ## Technologies I'm comfortable working with
 
 - Programming Languages: Ruby, JavaScript, Python.
