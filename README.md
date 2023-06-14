@@ -6,11 +6,13 @@
 
 Usually, when people ask, _"so, what are you up to at the moment?"_ my mind goes blank. So I've put this [now page](https://nownownow.com/about):
 
-- ✍️ Writing about how to work from Chile for USA companies at [TrabajoRemoto.cl](https://trabajoremoto.cl).
+- ✍️ I'm writing about how to work from Chile for USA companies at [TrabajoRemoto.cl](https://trabajoremoto.cl).
+
+- 👨‍💻 I work as a full-time Software Engineer in [Matilda](https://matildaexp.com).
 
 - 🦕 With [Eli](https://github.com/EliAndrea), we founded [Codeness](https://github.com/codeness-io), a software company that creates digital products for healthcare professionals. We made [Apposito](https://apposito.codeness.io) (Firebase + React Native 😉), an application that helps nurses document wounds objectively (with images).
 
-- 🎓 Teaching Frontend development with ⚛️ React in [Pontificia Universidad Católica de Chile](https://www.uc.cl/).
+- 🎓 I'm teaching Frontend development with ⚛️ React in [Pontificia Universidad Católica de Chile](https://www.uc.cl/).
 
 ## Technologies I'm comfortable working with
 
