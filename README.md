@@ -18,8 +18,9 @@ Usually, when people ask, _"so, what are you up to now?"_ my mind goes blank. So
 
 ## Technologies I'm comfortable working with
 
-- Programming Languages: Ruby, JavaScript, Python.
-- Backend: Ruby on Rails, Node, Firebase
+- Programming Languages: Ruby, JavaScript, Python
+- Fullstack: Ruby on Rails, Next
+- Backend: Node, Firebase
 - Frontend: React, HTML, CSS (vanilla, Bootstrap, Tailwind)
 - Mobile: React Native, Expo
 - Cloud and Tools: Git, Heroku, Docker
