@@ -14,8 +14,6 @@ Usually, when people ask, _"so, what are you up to now?"_ my mind goes blank. So
 
 - 🎓 I'm teaching Frontend development with ⚛️ React in [Pontificia Universidad Católica de Chile](https://www.uc.cl/) for the [Web Development Diploma](https://educacionprofesional.ing.uc.cl/?diplomado=diplomado-en-desarrollo-web).
 
-- 🤖 I'm also running a Generative AI workshop for [this](https://educacionprofesional.ing.uc.cl/?diplomado=diplomado-en-inteligencia-artificial-generativa) diploma.
-
 ## Technologies I'm comfortable working with
 
 - Programming Languages: Ruby, JavaScript, Python, TypeScript
