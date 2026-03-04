@@ -26,4 +26,4 @@ Usually, when people ask, _"so, what are you up to now?"_ my mind goes blank. So
 
 ## Contact
 
-📫 You can reach me through LinkedIn: https://www.linkedin.com/in/codewithnico
+📫 You can reach me through LinkedIn: https://www.linkedin.com/in/nicoespejo
