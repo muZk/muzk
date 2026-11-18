@@ -8,7 +8,7 @@ Usually, when people ask, _"so, what are you up to now?"_ my mind goes blank. So
 
 - ✍️ I'm writing about how to work from Chile for USA companies at [TrabajoRemoto.cl](https://trabajoremoto.cl).
 
-- 👨‍💻 I work as a full-time Software Engineer in [Pauca](https://www.linkedin.com/company/pauca) (holding company for [Matilda](https://matildaexp.com) and [UDP](https://udpapp.com/)).
+- 👨‍💻 I work as a full-time Software Engineer in [UDP](https://udpapp.com/).
 
 - 🦕 [Eli](https://github.com/EliAndrea) and I founded [Codeness](https://github.com/codeness-io), a software company that creates digital products for healthcare professionals. We made [Apposito](https://apposito.codeness.io) (Firebase + React Native 😉), an application that helps nurses document wounds objectively (with images).
 
